@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/satyavvd/vim_pathogen'
+let g:netrw_dirhist_2='/Users/satyavvd/vimfiles'
+let g:netrw_dirhist_3='/Users/satyavvd/vimpackages'
+let g:netrw_dirhist_4='/Users/satyavvd/.vim/bundle/snipmate.vim'
